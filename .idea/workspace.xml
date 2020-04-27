@@ -16,7 +16,10 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d11e504b-e1cc-499a-a23f-ff5a16b0612a" name="Default Changelist" comment="怎么回事" />
+    <list default="true" id="d11e504b-e1cc-499a-a23f-ff5a16b0612a" name="Default Changelist" comment="path-c-interface">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/firstFly/src/main/java/com/travefly/cn/dao/FirstyFlayDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/firstFly/src/main/java/com/travefly/cn/dao/FirstyFlayDto.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,7 +75,19 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="firstFly-patch-c" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/wangduomin/firstFly.git" />
+      </set>
+    </option>
   </component>
   <component name="ProjectId" id="1b6UaHl1LnyzdDogN38k3MDAphu" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -165,9 +180,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.firstFly [jar]" />
+        <item itemvalue="Gradle.firstFly [clean]" />
+        <item itemvalue="Gradle.firstFly [build]" />
         <item itemvalue="Gradle.firstFly [clean]" />
         <item itemvalue="Gradle.firstFly [jar]" />
-        <item itemvalue="Gradle.firstFly [build]" />
       </list>
     </recent_temporary>
   </component>
@@ -183,7 +200,7 @@
       <updated>1587952099101</updated>
       <workItem from="1587952102293" duration="289000" />
       <workItem from="1587952407800" duration="3316000" />
-      <workItem from="1587955746638" duration="5347000" />
+      <workItem from="1587955746638" duration="7102000" />
     </task>
     <task id="LOCAL-00001" summary="第一次，试试">
       <created>1587966157561</created>
@@ -206,7 +223,84 @@
       <option name="project" value="LOCAL" />
       <updated>1587966743506</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="怎么回事">
+      <created>1587967215623</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1587967215623</updated>
+    </task>
+    <task id="LOCAL-00005" summary="怎么回事">
+      <created>1587968442815</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1587968442815</updated>
+    </task>
+    <task id="LOCAL-00006" summary="怎么回事">
+      <created>1587968466513</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1587968466513</updated>
+    </task>
+    <task id="LOCAL-00007" summary="怎么回事">
+      <created>1587968492291</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1587968492291</updated>
+    </task>
+    <task id="LOCAL-00008" summary="分支提交">
+      <created>1587968784255</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1587968784255</updated>
+    </task>
+    <task id="LOCAL-00009" summary="分支提交2">
+      <created>1587968914498</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1587968914498</updated>
+    </task>
+    <task id="LOCAL-00010" summary="分支提交3">
+      <created>1587969058201</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1587969058201</updated>
+    </task>
+    <task id="LOCAL-00011" summary="path-b">
+      <created>1587971771501</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1587971771501</updated>
+    </task>
+    <task id="LOCAL-00012" summary="path-b-22">
+      <created>1587974060312</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1587974060312</updated>
+    </task>
+    <task id="LOCAL-00013" summary="path-b-冲突">
+      <created>1587975911119</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1587975911119</updated>
+    </task>
+    <task id="LOCAL-00014" summary="path-b-冲突">
+      <created>1587976073867</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1587976073867</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -242,19 +336,7 @@
         </entry>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="master" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -265,7 +347,13 @@
     <MESSAGE value="?" />
     <MESSAGE value="第一次，试试" />
     <MESSAGE value="怎么回事" />
-    <option name="LAST_COMMIT_MESSAGE" value="怎么回事" />
+    <MESSAGE value="分支提交" />
+    <MESSAGE value="分支提交2" />
+    <MESSAGE value="分支提交3" />
+    <MESSAGE value="path-b" />
+    <MESSAGE value="path-b-22" />
+    <MESSAGE value="path-b-冲突" />
+    <option name="LAST_COMMIT_MESSAGE" value="path-b-冲突" />
   </component>
   <component name="WindowStateProjectService">
     <state x="492" y="171" key="#Notifications" timestamp="1587966007832">
@@ -284,6 +372,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="159" y="0" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1280.680@0.0.1280.680" timestamp="1587952140053" />
+    <state x="107" y="108" width="1095" height="495" key="DiffContextDialog" timestamp="1587971371186">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="107" y="108" width="1095" height="495" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1587971371186" />
     <state x="368" y="35" key="FileChooserDialogImpl" timestamp="1587952362827">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -304,6 +396,14 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="1227" height="156" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1587957717436" />
+    <state x="242" y="51" key="MergeDialog" timestamp="1587976022685">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="242" y="51" key="MergeDialog/0.0.1280.680@0.0.1280.680" timestamp="1587976022685" />
+    <state x="496" y="173" width="551" height="334" key="MultipleFileMergeDialog" timestamp="1587976022694">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="496" y="173" width="551" height="334" key="MultipleFileMergeDialog/0.0.1280.680@0.0.1280.680" timestamp="1587976022694" />
     <state x="415" y="0" key="RollbackChangesDialog" timestamp="1587958184227">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -312,10 +412,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="0" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1587967203721" />
-    <state x="133" y="0" key="Vcs.Push.Dialog.v2" timestamp="1587966193354">
+    <state x="133" y="0" key="Vcs.Push.Dialog.v2" timestamp="1587976078924">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="133" y="0" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1587966193354" />
+    <state x="133" y="0" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1587976078924" />
     <state x="374" y="231" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587955240985">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -324,10 +424,14 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="353" y="0" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1280.680@0.0.1280.680" timestamp="1587957460497" />
-    <state x="369" y="79" key="git4idea.merge.GitPullDialog" timestamp="1587954951671">
+    <state x="369" y="79" key="git4idea.merge.GitMergeDialog" timestamp="1587972298704">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="369" y="79" key="git4idea.merge.GitPullDialog/0.0.1280.680@0.0.1280.680" timestamp="1587954951671" />
+    <state x="369" y="79" key="git4idea.merge.GitMergeDialog/0.0.1280.680@0.0.1280.680" timestamp="1587972298704" />
+    <state x="369" y="79" key="git4idea.merge.GitPullDialog" timestamp="1587973876975">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="369" y="79" key="git4idea.merge.GitPullDialog/0.0.1280.680@0.0.1280.680" timestamp="1587973876975" />
     <state x="441" y="170" key="git4idea.rebase.GitRebaseDialog" timestamp="1587953918026">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -344,5 +448,9 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="0" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1587965883835" />
+    <state x="219" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1587976040759">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="219" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1587976040759" />
   </component>
 </project>
