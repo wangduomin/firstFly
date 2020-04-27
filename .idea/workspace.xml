@@ -16,8 +16,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d11e504b-e1cc-499a-a23f-ff5a16b0612a" name="Default Changelist" comment="分支提交2">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="d11e504b-e1cc-499a-a23f-ff5a16b0612a" name="Default Changelist" comment="分支提交3">
       <change beforePath="$PROJECT_DIR$/firstFly/src/main/java/com/travefly/cn/service/FirstFlyService.java" beforeDir="false" afterPath="$PROJECT_DIR$/firstFly/src/main/java/com/travefly/cn/service/FirstFlyService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -191,7 +190,7 @@
       <updated>1587952099101</updated>
       <workItem from="1587952102293" duration="289000" />
       <workItem from="1587952407800" duration="3316000" />
-      <workItem from="1587955746638" duration="6694000" />
+      <workItem from="1587955746638" duration="7102000" />
     </task>
     <task id="LOCAL-00001" summary="第一次，试试">
       <created>1587966157561</created>
@@ -256,7 +255,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587968914498</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="分支提交3">
+      <created>1587969058201</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1587969058201</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -317,7 +323,8 @@
     <MESSAGE value="怎么回事" />
     <MESSAGE value="分支提交" />
     <MESSAGE value="分支提交2" />
-    <option name="LAST_COMMIT_MESSAGE" value="分支提交2" />
+    <MESSAGE value="分支提交3" />
+    <option name="LAST_COMMIT_MESSAGE" value="分支提交3" />
   </component>
   <component name="WindowStateProjectService">
     <state x="492" y="171" key="#Notifications" timestamp="1587966007832">
@@ -364,10 +371,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="0" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1587967203721" />
-    <state x="133" y="0" key="Vcs.Push.Dialog.v2" timestamp="1587967267326">
+    <state x="133" y="0" key="Vcs.Push.Dialog.v2" timestamp="1587969069716">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="133" y="0" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1587967267326" />
+    <state x="133" y="0" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1587969069716" />
     <state x="374" y="231" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587955240985">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -376,10 +383,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="353" y="0" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1280.680@0.0.1280.680" timestamp="1587957460497" />
-    <state x="369" y="79" key="git4idea.merge.GitPullDialog" timestamp="1587954951671">
+    <state x="369" y="79" key="git4idea.merge.GitPullDialog" timestamp="1587969285388">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="369" y="79" key="git4idea.merge.GitPullDialog/0.0.1280.680@0.0.1280.680" timestamp="1587954951671" />
+    <state x="369" y="79" key="git4idea.merge.GitPullDialog/0.0.1280.680@0.0.1280.680" timestamp="1587969285388" />
     <state x="441" y="170" key="git4idea.rebase.GitRebaseDialog" timestamp="1587953918026">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
