@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d11e504b-e1cc-499a-a23f-ff5a16b0612a" name="Default Changelist" comment="第一次，试试" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/firstFly">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/firstFly">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="firstFly" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="firstFly" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="firstFly" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="firstFly" type="f1a62948:ProjectNode" />
+                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1b6UaHl1LnyzdDogN38k3MDAphu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="flattenModules" value="true" />
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.travefly.cn" />
+      <recent name="src.test.java.com.travefly.cn" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.firstFly [clean]">
+    <configuration name="firstFly [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/firstFly" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="firstFly [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/firstFly" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="firstFly [jar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/firstFly" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="jar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.firstFly [clean]" />
+        <item itemvalue="Gradle.firstFly [jar]" />
+        <item itemvalue="Gradle.firstFly [build]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d11e504b-e1cc-499a-a23f-ff5a16b0612a" name="Default Changelist" comment="" />
+      <created>1587952099101</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587952099101</updated>
+      <workItem from="1587952102293" duration="289000" />
+      <workItem from="1587952407800" duration="3316000" />
+      <workItem from="1587955746638" duration="4513000" />
+    </task>
+    <task id="LOCAL-00001" summary="第一次，试试">
+      <created>1587966157561</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587966157561</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:D:/workspace/idea/firstFly" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="?" />
+    <MESSAGE value="第一次，试试" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一次，试试" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="492" y="171" key="#Notifications" timestamp="1587966007832">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="492" y="171" key="#Notifications/0.0.1280.680@0.0.1280.680" timestamp="1587966007832" />
+    <state x="0" y="0" key="#Project_Structure" timestamp="1587952650768">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="0" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1587952650768" />
+    <state x="399" y="0" key="#com.intellij.ide.util.MemberChooser" timestamp="1587956607995">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="399" y="0" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1587956607995" />
+    <state x="159" y="0" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1587952140053">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="159" y="0" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1280.680@0.0.1280.680" timestamp="1587952140053" />
+    <state x="368" y="35" key="FileChooserDialogImpl" timestamp="1587952362827">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="368" y="35" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1587952362827" />
+    <state width="1227" height="156" key="GridCell.Tab.0.bottom" timestamp="1587957717437">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1227" height="156" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1587957717437" />
+    <state width="1227" height="156" key="GridCell.Tab.0.center" timestamp="1587957717436">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1227" height="156" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1587957717436" />
+    <state width="1227" height="156" key="GridCell.Tab.0.left" timestamp="1587957717436">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1227" height="156" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1587957717436" />
+    <state width="1227" height="156" key="GridCell.Tab.0.right" timestamp="1587957717436">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1227" height="156" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1587957717436" />
+    <state x="415" y="0" key="RollbackChangesDialog" timestamp="1587958184227">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="415" y="0" key="RollbackChangesDialog/0.0.1280.680@0.0.1280.680" timestamp="1587958184227" />
+    <state x="0" y="0" key="SettingsEditor" timestamp="1587965860938">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1587965860938" />
+    <state x="133" y="0" key="Vcs.Push.Dialog.v2" timestamp="1587966193354">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="133" y="0" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1587966193354" />
+    <state x="374" y="231" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587955240985">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="374" y="231" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1587955240985" />
+    <state x="353" y="0" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1587957460497">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="353" y="0" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1280.680@0.0.1280.680" timestamp="1587957460497" />
+    <state x="369" y="79" key="git4idea.merge.GitPullDialog" timestamp="1587954951671">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="369" y="79" key="git4idea.merge.GitPullDialog/0.0.1280.680@0.0.1280.680" timestamp="1587954951671" />
+    <state x="441" y="170" key="git4idea.rebase.GitRebaseDialog" timestamp="1587953918026">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="441" y="170" key="git4idea.rebase.GitRebaseDialog/0.0.1280.680@0.0.1280.680" timestamp="1587953918026" />
+    <state x="395" y="226" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1587954809021">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="395" y="226" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1280.680@0.0.1280.680" timestamp="1587954809021" />
+    <state x="421" y="210" key="git4idea.ui.GitResetDialog" timestamp="1587953892538">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="210" key="git4idea.ui.GitResetDialog/0.0.1280.680@0.0.1280.680" timestamp="1587953892538" />
+    <state x="0" y="0" key="new project wizard" timestamp="1587965883835">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1587965883835" />
+  </component>
+</project>
