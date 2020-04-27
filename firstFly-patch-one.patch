@@ -1,0 +1,13 @@
+Index: firstFly/src/main/java/com/travefly/cn/service/FirstFlyService.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- firstFly/src/main/java/com/travefly/cn/service/FirstFlyService.java	(revision 439a7edfdc831c569868d38fe2fefdb3da9e7e5b)
++++ firstFly/src/main/java/com/travefly/cn/service/FirstFlyService.java	(date 1587968389163)
+@@ -1,4 +1,5 @@
+ package com.travefly.cn.service;
+ 
+ public class FirstFlyService {
++
+ }
