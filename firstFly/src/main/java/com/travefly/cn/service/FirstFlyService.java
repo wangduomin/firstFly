@@ -8,4 +8,6 @@ public class FirstFlyService {
     private double money;
     private boolean sex;
     private String nickName;
+    privaee int id;
+
 }
