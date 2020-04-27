@@ -1,7 +1,9 @@
 package com.travefly.cn.service;
 
-public class FirstFlyService {
+import java.util.Date;
 
+public class FirstFlyService {
+    private Date createDate;
     private String name;
     private double money;
     private boolean sex;

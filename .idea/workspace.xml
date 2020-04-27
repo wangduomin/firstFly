@@ -17,6 +17,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d11e504b-e1cc-499a-a23f-ff5a16b0612a" name="Default Changelist" comment="分支提交3">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/firstFly/src/main/java/com/travefly/cn/service/FirstFlyService.java" beforeDir="false" afterPath="$PROJECT_DIR$/firstFly/src/main/java/com/travefly/cn/service/FirstFlyService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,10 +77,17 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="firstFly-patch-a" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/wangduomin/firstFly.git" />
+      </set>
+    </option>
   </component>
   <component name="ProjectId" id="1b6UaHl1LnyzdDogN38k3MDAphu" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -298,19 +306,7 @@
         </entry>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="master" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -343,6 +339,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="159" y="0" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1280.680@0.0.1280.680" timestamp="1587952140053" />
+    <state x="107" y="108" width="1095" height="495" key="DiffContextDialog" timestamp="1587971371186">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="107" y="108" width="1095" height="495" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1587971371186" />
     <state x="368" y="35" key="FileChooserDialogImpl" timestamp="1587952362827">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -371,10 +371,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="0" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1587967203721" />
-    <state x="133" y="0" key="Vcs.Push.Dialog.v2" timestamp="1587969069716">
+    <state x="133" y="0" key="Vcs.Push.Dialog.v2" timestamp="1587971497811">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="133" y="0" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1587969069716" />
+    <state x="133" y="0" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1587971497811" />
     <state x="374" y="231" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587955240985">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
