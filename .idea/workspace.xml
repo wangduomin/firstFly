@@ -16,10 +16,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d11e504b-e1cc-499a-a23f-ff5a16b0612a" name="Default Changelist" comment="path-c-interface">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstFly/src/main/java/com/travefly/cn/dao/FirstyFlayDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/firstFly/src/main/java/com/travefly/cn/dao/FirstyFlayDto.java" afterDir="false" />
-    </list>
+    <list default="true" id="d11e504b-e1cc-499a-a23f-ff5a16b0612a" name="Default Changelist" comment="path-c-interface" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

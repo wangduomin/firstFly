@@ -1,12 +1,29 @@
 package com.travefly.cn.model;
 
 import java.util.Date;
+import java.util.Objects;
 
 public class FirstFly {
 
     private String userName;
     private int id;
     private double money;
+
+    @Override public boolean equals(Object o) {
+        if (this == o)
+            return true;
+        if (o == null || getClass() != o.getClass())
+            return false;
+        FirstFly firstFly = (FirstFly) o;
+        return id == firstFly.id && Double.compare(firstFly.money, money) == 0
+            && sex == firstFly.sex && Objects.equals(userName, firstFly.userName) && Objects
+            .equals(createDate, firstFly.createDate);
+    }
+
+    @Override public int hashCode() {
+        return Objects.hash(userName, id, money, createDate, sex);
+    }
+
     private Date createDate;
     private boolean sex;
 
