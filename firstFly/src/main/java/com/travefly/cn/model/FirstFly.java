@@ -9,7 +9,6 @@ public class FirstFly {
     private int id;
     private double money;
 
-
     @Override public boolean equals(Object o) {
         if (this == o)
             return true;
